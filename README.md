@@ -137,7 +137,6 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
     </td>
   </tr>
 </table>
-### Socials
 
 
 
